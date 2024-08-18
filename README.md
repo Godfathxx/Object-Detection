@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/object-detection-yolov5.git
+git clone https://github.com/Godfathxx/Object-Detection.git
 cd object-detection-yolov5
 Install dependencies:
 
